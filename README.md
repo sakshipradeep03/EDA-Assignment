@@ -3,8 +3,7 @@
 
 ---
 
-### Objective
-The aim of this assignment is to analyze a dataset using Python, following a systematic approach through data exploration, preprocessing, statistical analysis, and model development.
+### Objective: The aim of this assignment is to analyze a dataset using Python, following a systematic approach through data exploration, preprocessing, statistical analysis, and model development.
 ---
 
 ### 1. **Account Setup**
