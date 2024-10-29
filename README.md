@@ -1,5 +1,5 @@
-# Exploratory Data Analysis (EDA)
-## Digital Assignment
+## Exploratory Data Analysis (EDA)
+### Digital Assignment
 
 ---
 
@@ -59,6 +59,6 @@ The aim of this assignment is to analyze a dataset using Python, following a sys
    - **Evaluation Metrics**: Computed R-squared and adjusted R-squared values to assess model fit.
 
 ### Appendix
-   - **Code Repository**: [GitHub Link to Code]([URL_placeholder](https://github.com/sakshipradeep03/EDA-Assignment))
+   - **Code Repository**: [https://github.com/sakshipradeep03/EDA-Assignment]
 
 --- 
